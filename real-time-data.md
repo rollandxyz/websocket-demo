@@ -3,3 +3,5 @@ https://blog.codewithdan.com/pushing-real-time-data-to-an-angular-service-using-
 https://auth0.com/blog/real-world-angular-series-part-3/
 
 https://github.com/DanWahlin/Angular-WebSockets
+
+https://blog.codewithdan.com/ngair-podcast-containerizing-angular-apps-with-docker/
