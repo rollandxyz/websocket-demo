@@ -21,3 +21,6 @@ https://hackernoon.com/adding-realtime-data-streaming-to-your-app-b9b6ec034afd
 https://www.rethinkdb.com/
 
 https://www.linkedin.com/pulse/push-data-long-polling-using-nodejs-socketio-mysql-serdar-senay
+
+https://cloud.netapp.com/blog/cloud-based-database-challenges-and-advantages
+
